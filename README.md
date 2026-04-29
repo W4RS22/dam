@@ -23,3 +23,9 @@ En este repositorio encontrarás una colección de trabajos y prácticas centrad
 Estos trabajos tienen como finalidad reforzar mis habilidades en el desarrollo web, mejorar la estructura del código y entender cómo crear experiencias de usuario más dinámicas e intuitivas.
 
 ✨ Aprendiendo hoy, desarrollando el futuro.
+
+[Práctica Basica HTML.zip](https://github.com/user-attachments/files/27191417/Practica.Basica.HTML.zip)
+
+
+
+
